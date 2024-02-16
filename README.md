@@ -1,5 +1,5 @@
 - 👋 Ohhhh Hiiiiii, I’m @VanessaPaola23
-- 👀 I’m interested in Python, SQL, automation of processes and generating predictive and categorical analytics with 
+- 👀 I’m interested in Python, SQL, automation of processes, and generating predictive and categorical attractive analytics.
 - 🌱 I’m currently learning Analytics and Machine learning with Python, marketing storytelling
   - 💞️ I’m looking to collaborate on new projects in the following fields: health,marketing,finances,music,HR,logistic, entretainment, etc. Happy to help!
 - 📫 How to reach me: social media links and vanessapaolalvc@outlook.com 💌
